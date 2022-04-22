@@ -1,2 +1,1 @@
-# MiniMercado
-Parcial pooo2
+Parcial POO2
